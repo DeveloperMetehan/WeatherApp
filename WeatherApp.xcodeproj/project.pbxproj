@@ -53,6 +53,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		92BC0E6A2A8225ED00FB54D1 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				92DA4B442A5DE3200026B679 /* HomeViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
 		92DA4B342A5DE3200026B679 = {
 			isa = PBXGroup;
 			children = (
@@ -95,7 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				92DA4B582A5DF0FF0026B679 /* TableView */,
-				92DA4B442A5DE3200026B679 /* HomeViewController.swift */,
+				92BC0E6A2A8225ED00FB54D1 /* Controller */,
 			);
 			path = Scene;
 			sourceTree = "<group>";
